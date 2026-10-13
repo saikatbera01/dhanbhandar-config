@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Dhanbhandar accounts related prod APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@dhanbhandar.com"
+    email: "{cipher}1fe1bcc9e2d19669df1e5d5d29537264c44e740ea4d9e0fac759aba406b4a7ed355dd562277779dbaaaddcd3363c3999"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
